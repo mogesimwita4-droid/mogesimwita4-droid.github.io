@@ -1,0 +1,33 @@
+/* General website styling */
+
+body {
+  font-family: Arial, sans-serif;
+  margin:0;
+  padding:0;
+  background-color: #101b2d;
+  color:white;
+  text-align:center;
+  {
+  /* Main heading */
+
+h1 {
+  color:#76b5ff;
+  font-size:40px;
+  margin-top:100px;
+}
+  /*Subheading*/
+
+h2 {
+  color: #ffffff;
+  font-size:25px;
+}
+  /*Paragraphs*/
+
+  p {
+    color: #dod8e5;
+    font-size:18px
+    line-height:1.8;
+    maargin: 20px;
+  }
+  
+  
